@@ -1,0 +1,14 @@
+Button{
+    position: absolute;
+    top: 100px;
+    margin-left: 0;
+}
+#values{
+    position: absolute;
+    margin-left: 20px;
+}
+#msg{
+    position: absolute;
+    top: 100px;
+    margin-left: 100px;
+}
